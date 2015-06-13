@@ -1,0 +1,32 @@
+{
+  "total": 100,
+  "rows": [
+    {
+      "id": 1,
+      "type": "770",
+      "roomnum": 1,
+      "toiletnum": 2,
+      "size": 12345,
+      "price": 1234,
+      "img": "qazwsx"
+    },
+   {
+      "id": 2,
+      "type": "770",
+      "roomnum": 1,
+      "toiletnum": 2,
+      "size": 12345,
+      "price": 1234,
+      "img": "qazwsx"
+    },
+    {
+      "id": 3,
+      "type": "770",
+      "roomnum": 1,
+      "toiletnum": 2,
+      "size": 12345,
+      "price": 1234,
+      "img": "qazwsx"
+    }
+  ]
+}

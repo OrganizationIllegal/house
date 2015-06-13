@@ -1,0 +1,9 @@
+﻿@charset "utf-8";
+/*默认样式及公共样式*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0;}
+img{border:0;}
+table{border-collapse:collapse;border-spacing:0}
+
+/* ad_position */
+body{ font-family:"Microsoft YaHei"!important;}
+.w300{width:300px;padding:0px 15px;margin:0px auto;}

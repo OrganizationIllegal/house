@@ -1,0 +1,7 @@
+.navbar-header a{color:LightSlateGray;}
+.navbar-header a:visited{color:blue;text-decoration:none;}
+.fooder{
+background: -ms-linear-gradient(top,rgba(19, 51, 89, 1),rgba(51, 51, 51, 51));        /* IE 10 */
+background:-moz-linear-gradient(top,#b8c4cb,#f6f6f8);/*»ðºü*/ 
+background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(rgba(19, 51, 89, 1)), to(rgba(51, 51, 51, 51)));/*¹È¸è*/ 
+}

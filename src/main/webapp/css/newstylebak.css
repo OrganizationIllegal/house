@@ -1,0 +1,50 @@
+﻿@charset "utf-8";
+/*默认样式及公共样式*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0;}
+img{border:0;}
+table{border-collapse:collapse;border-spacing:0}
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,dl,dd,ul,ol,form,input,select,textarea{margin:0;}
+ol,ul,td,th,input,textarea{padding:0;}
+body,input,select,textarea{font-size:12px; font-family:"宋体"; /* color:; font-family:; */}
+img{border:none; vertical-align:top;}
+a{text-decoration:none;}
+table{border-collapse:collapse;}
+textarea{overflow:auto;resize:none;}
+input{background:none;border:none;}
+li{list-style:none;}
+.clear:after{content:'';display:block;clear:both;}
+.clear{zoom:1;}
+/*  css  reset */
+/* ad_position */
+
+.fl{float:left;}
+.w450{width:420px; padding:0 20px;}
+.w140{width:140px; padding:0 15px;}
+.w200{width:200px; padding:0 15px;}
+.w240{width:240px; padding:0 15px;}
+.w580{width:570px; padding:0 15px;}
+.os_top{background:#fff url(../images/overseas/OS_TOP1.png) no-repeat top left}
+.os_topdiv{width:1190px; height:386px; margin:0 auto; }
+.os_contain{padding-top:70px;}
+.p90{padding-top:70px;}
+.jz{margin:0 auto;}
+.ov_title{width:1190px; margin:0 auto;padding-top:48px;padding-bottom:30px;background:#fff;}
+.w450jz{width:450px; margin:0 auto;}
+.ovmap{width:1190; height:428px; margin:0 auto; background:#f6f5f5  url(../images/overseas/ovmap.png) no-repeat top right;}
+.map_font{width:340px; height:274px; margin-left:138px;padding-top:154px;}
+.ov_color{width:1190px; height:544px; margin:0 auto;background:#fff;}
+#ov_item div{width:100px;}
+.ov_money{width:1190px; height:472px; margin:0 auto;background:#fff;}
+.openAcc{width:110px;height:52px; margin-top:212px; margin-left:15px; background:#be263d;border:none;font-size:20px; color:#fff;}
+.pic3{width:686px; height:170px; margin:0 auto;margin-top:16px;}
+#can{margin-left:80px;}
+.line{width:930px; height:32px; margin:0 auto;}
+.lcon{margin-top:-18px;}
+.lline{}
+.rcon{float:right;margin-top:-30px;}
+.moneyF{width:242px; height:; margin:0 auto;}
+
+
+
+

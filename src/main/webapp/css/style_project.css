@@ -1,0 +1,31 @@
+﻿@charset "utf-8";
+/*默认样式及公共样式*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0;}
+img{border:0;}
+table{border-collapse:collapse;border-spacing:0}
+
+/* ad_position */
+.ad_position_p{
+
+    position:relative;
+
+    /* overflow:hidden; */
+
+    margin:40px auto 0 auto;
+    margin-left:40px;
+}
+.limit_p{height:246px;width:663px;margin:27px 1px 4px -19px;overflow:hidden;}
+.ad_left_big_p{width:720px;border-collapse:collapse;float:left;display:inline;}
+.ad_small_box_p{float:left;width:224px;height:487px;overflow:hidden;display:inline;}
+.ad_small_box_p ul{margin:0px 0px 0px 10px;list-style:none inside none;padding:0px;*margin-left:-6px;}
+.ad_small_box_p ul li{width:224px;height:140px;margin-bottom:4px;overflow:hidden;cursor:pointer;}
+.ad_small_box_p ul li img{
+
+    width:224px;height:140px;border:#c5c5c5 1px solid;
+
+}
+.ad_small_box_p .this_ad_p{position:absolute;top:0px;left:0px;cursor:pointer;width:224px;height:160px;margin-top:0px;}
+.ad_small_box_p .top_button{width:224px;height:14px;margin-left:9px;overflow:hidden;cursor:pointer;background:url(../images/top_button.gif)  /* no-repeat;  */}
+.ad_small_box_p .bottom_button{width:224px;height:14px;margin-left:9px;overflow:hidden;cursor:pointer;background:url(../images/bottom_button.gif) /* no-repeat; */}
+.ad_small_box_p .off{background-position:0px -14px;cursor:auto;}
+.ad_small_box_p .small_right_limit_p{height:459px;padding:3px 0px;overflow:hidden;position:relative;}

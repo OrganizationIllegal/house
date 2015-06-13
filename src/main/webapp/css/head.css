@@ -1,0 +1,19 @@
+﻿@charset "utf-8";
+/*默认样式及公共样式*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{padding:0;margin:0;}
+img{border:0;}
+table{border-collapse:collapse;border-spacing:0}
+
+/* ad_position */
+
+body{ font-family:"Microsoft YaHei"!important;}
+
+.fl{float:left;}
+
+.w110{width:110px; padding:0 20px;}
+.w200{width:200px; padding:0 15px;}
+.w250{width:250px; padding:0 15px;margin-left:50px;}
+.w580{width:580px; padding:0 15px;}
+.w1190{width:1190; padding:0 15px;margin:0 auto;}
+
+.f15h{font-weight:Regular;font-size:15px;color:rgb(137,137,137);}

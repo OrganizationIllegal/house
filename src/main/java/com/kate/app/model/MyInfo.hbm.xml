@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>
+ <class name="com.kate.app.model.MyInfo" table="MyInfo">
+  <id name="id" column="id" type="java.lang.Integer">
+   
+  </id>
+  <property name="name" column="name" type="java.lang.String"></property>
+  <property name="age" column="age" type="java.lang.Integer"></property>
+ 
+ </class>
+</hibernate-mapping>

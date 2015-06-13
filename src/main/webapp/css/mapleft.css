@@ -1,0 +1,24 @@
+.xian{ border-bottom-width: 1px;
+       border-bottom-style: solid;
+       border-bottom-color: rgb(204, 204, 204);
+       height:1px;}
+ .right{
+      float:right;
+ }
+ .left{
+ float:left;
+ }
+
+ .title{
+ width:23%;
+ height:auto;
+ background:rgb(204,204,204);
+ padding:5px 10px 5px 10px ;
+ }
+ #title{
+ border-radius:4px;
+ border-top-right-radius:4px;
+ border-top-left-radius:4px;
+ }
+ .navbar-header a{color:LightSlateGray;}
+	   .navbar-header a:visited{color:blue;text-decoration:none;}
